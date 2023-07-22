@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HelloWorld_IntellijBuild_Module1:jar">
+    <output-path>$PROJECT_DIR$/build/artifacts/HelloWorld_IntellijBuild_Module1_jar</output-path>
+    <root id="archive" name="HelloWorld_IntellijBuild_Module1.jar">
+      <element id="module-output" name="HelloWorld_IntellijBuild_Module1" />
+      <element id="module-output" name="HelloWrold_IntellijBuild" />
+      <element id="module-output" name="HelloWrold_IntellijBuild_Module2" />
+    </root>
+  </artifact>
+</component>
